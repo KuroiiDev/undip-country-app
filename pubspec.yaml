@@ -55,7 +55,7 @@ flutter:
   uses-material-design: true
 
   assets:
-    - lib/team.jpg
+    - lib/team.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images

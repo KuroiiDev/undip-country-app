@@ -37,7 +37,7 @@ class _ProfilePageState extends State<ProfilePage> {
                   image: const DecorationImage(
                     fit: BoxFit.cover,
                     alignment: Alignment.topCenter,
-                    image: AssetImage('lib/team.jpg'),
+                    image: AssetImage('lib/team.jpeg'),
                   ),
                   color: const Color.fromARGB(
                     255,
